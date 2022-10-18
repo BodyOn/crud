@@ -1,0 +1,11 @@
+C:\Users\maria\OneDrive\Documentos\crud\crud\crud\bin\Debug\crud.exe.config
+C:\Users\maria\OneDrive\Documentos\crud\crud\crud\bin\Debug\crud.exe
+C:\Users\maria\OneDrive\Documentos\crud\crud\crud\bin\Debug\crud.pdb
+C:\Users\maria\OneDrive\Documentos\crud\crud\crud\obj\Debug\crud.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\crud\crud\crud\obj\Debug\crud.BodyOn.resources
+C:\Users\maria\OneDrive\Documentos\crud\crud\crud\obj\Debug\crud.Properties.Resources.resources
+C:\Users\maria\OneDrive\Documentos\crud\crud\crud\obj\Debug\crud.csproj.GenerateResource.cache
+C:\Users\maria\OneDrive\Documentos\crud\crud\crud\obj\Debug\crud.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\crud\crud\crud\obj\Debug\crud.exe
+C:\Users\maria\OneDrive\Documentos\crud\crud\crud\obj\Debug\crud.pdb
+C:\Users\maria\OneDrive\Documentos\crud\crud\crud\obj\Debug\crud.FormClient.resources
