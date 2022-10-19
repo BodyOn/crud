@@ -68,7 +68,7 @@ namespace crud
 
         private void button1_Click(object sender, EventArgs e)
         {
-            FormClient cliente = new FormClient(this);
+            FormClient cliente = new FormClient();
             cliente.ShowDialog();
         }
 
